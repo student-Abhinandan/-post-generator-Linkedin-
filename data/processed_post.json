@@ -1,0 +1,111 @@
+[
+    {
+        "text": "What Accenture's 11,000 Layoffs Reveal About the Future of Your Job\nIn recent interviews, Anthropic CEO Dario Amodei has been predicting a 10-50 percent unemployment rate among entry-level white collar workers as a result of corporate America's embrace of artificial intelligence. \nSuch predictions obviously send chills down the spines of knowledge workers and IT professionals everywhere. But what is actually happening now? \nLast September, Dublin-based global consulting titan Accenture fired 11,000 employees that it said were untrainable in artificial intelligence. This was part of a $865 million restructuring involving the adoption of AI. For the record, Accenture has more than 700,000 employees throughout the world.",
+        "engagement": 98,
+        "line_count": 6,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence",
+            "Company"
+        ]
+    },
+    {
+        "text": "Ever tried to cook a 7-course Thanksgiving dinner for 50 people, one plate at a time, as they walk through the door?\nThat\u2019s Real-Time Processing. It\u2019s fast, it\u2019s exciting, but man... it\u2019s stressful, expensive, and one tiny mistake creates a massive bottleneck.\nNow, imagine the Midnight Chef.\nWhile the rest of the world sleeps, the Midnight Chef is in a quiet kitchen. They aren't rushing. They are prepping ingredients in massive crates, slow-cooking the broth for hours, and organizing everything into perfect containers.\nBy the time the sun rises, the work is done. It\u2019s high-volume, perfectly executed, and cost-effective.\nThat is the power of Batch Deployment. \nIn the world of \"Real-Time everything,\" we often forget that Batch Processing is the unsung hero. It\u2019s the engine behind your monthly bank statements, the training of massive AI models, and the heavy-duty data cleaning that keeps businesses sane.\nI\u2019ve put together a deep dive into why",
+        "engagement": 90,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "Deployment",
+            "Real Time Processing"
+        ]
+    },
+    {
+        "text": "I used to think that teaching an AI a new skill was like performing open-heart surgery.\nTo make it better at medical coding or creative writing, you had to crack open the entire model, move billions of \"neurons\" around, and pray you didn't break its common sense in the process. It was expensive, slow, and frankly, a bit of a nightmare.\nThen I discovered Adaptors.\nImagine you have a world-class athlete. Instead of retraining their entire body every time they switch sports, you just give them the right gear.\n Running? Put on the sprinting shoes.\n \u25a0 Swimming? Grab the goggles.\n Cycling? Strap on the helmet.\nThe athlete\u2019s core strength stays the same\u2014you\u2019re just adding a \"lightweight backpack\" of specialized tools.\nIn the world of Large Language Models (LLMs), this is what we call PEFT (Parameter-Efficient Fine-Tuning).\nI\u2019ve been diving deep into this lately, from the classic Houlsby methods to the mathematical wizardry of LoRA and the high-precision \"magnitude-direction\" split of DoRA.\nThe result? I can now train a massive 70B model on a single home GPU. No massive server farm required. Just a tiny \"plug-in\" module that represents less than 1% of the model\u2019s weight, but carries 100% of the new skill.\nThe era of \"one-size-fits-all\" AI is over. We\u2019re moving toward a modular future where your AI can swap skills as fast as you can swap a USB drive.",
+        "engagement": 560,
+        "line_count": 26,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence",
+            "AI"
+        ]
+    },
+    {
+        "text": "Anatomy of an Edge AI Agent: Intelligence Where It Matters\nImagine a small device on a factory floor.\nNo cloud. No powerful servers.\nJust a local system, quietly listening to machine vibrations.\nSomething changes. A pattern shifts.\nThere is no time to send data to the cloud and wait.\nA decision must happen now.\nThis is where an Edge AI agent comes to life.\nAt its core, every Edge AI agent is built on four key components:\n\u2022 The Model \u2192 the brain, small but powerful \n\u2022 The Inference Engine \u2192 runs the model efficiently on real hardware \n\u2022 The Data Interface \u2192 connects the system to the real world \n\u2022 The Action Logic \u2192 decides what to do \nTogether, they form a simple but powerful loop:\n sense \u2192 understand \u2192 act\nAt the edge, this loop must be fast, efficient, and autonomous.\nWhy This Matters\nWhen everything runs locally:\n\u2022 No cloud latency \n\u2022 No dependency on connectivity \n\u2022 No delays between perception and action \nJust real-time intelligence.\nThis is what transforms a system from a passive observer\u2026\n into an active agent.\n\"From Prediction to Action\"\nA model alone is not enough.\nWhat really matters is what happens after the prediction.\n\u2022 A machine detects abnormal vibrations \u2192 does it stop? \n\u2022 A car sees a pedestrian \u2192 does it brake? \n\u2022 A wearable detects risk \u2192 does it alert? \nThis is where intelligence becomes behavior",
+        "engagement": 60,
+        "line_count": 26,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "AI is a hot topic of discussion across all areas of life, raising questions about the future of jobs and society. Recently, I delved into \"Nexus,\" a book by Yuval Noah Harari, known for his works \"Sapiens\" and \"Homo Deus.\" Although I purchased it over a year ago, I only recently had the opportunity to read it, and it has provided valuable insights.\nThis article summarizes key points from the book and outlines actions we must take to ensure that algorithms and AI do not pursue harmful goals. A crucial question arises: how do we establish the right objectives for AI? Harari presents some ideas, but I believe it will take the collaboration of the brightest minds to explore this further.\nI recall a TED talk by the founder of \"Replika,\" the AI companion app, who suggested that may be this whole time, we have been directing AI toward the wrong goal\u2014\"Engagement,\" driven by human greed. Imagine if the focus shifted to maximizing overall human happiness instead",
+        "engagement": 50,
+        "line_count": 6,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence",
+            "Future Jobs"
+        ]
+    },
+    {
+        "text": "Its hard to stay motivated all the time.\nSelf doubt, overthinking, feeling lost\u2026 it\u2019s normal.\nNot every day is productive.\nNot every day you feel like doing anything.\nBut small things change everything.\n\nShowing up even on bad days.\nTrying again after failure.\nNot quitting when it gets hard.\n\nThats what actually makes the difference.\nYou dont need to be perfect every day.\nYou just need to not give up.",
+        "engagement": 300,
+        "line_count": 12,
+        "language": "English",
+        "tags": [
+            "Motivation",
+            "Productivity"
+        ]
+    },
+    {
+        "text": "Its hard to stay motivated all the time.\nSelf doubt, overthinking, feeling lost\u2026 it\u2019s normal.\nNot every day is productive.\nNot every day you feel like doing anything.\nBut small things change everything.\n\nShowing up even on bad days.\nTrying again after failure.\nNot quitting when it gets hard.\n\nThats what actually makes the difference.\nYou dont need to be perfect every day.\nYou just need to not give up.",
+        "engagement": 543,
+        "line_count": 12,
+        "language": "English",
+        "tags": [
+            "Motivation",
+            "Productivity"
+        ]
+    },
+    {
+        "text": "Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch in the gut. The sleepless nights, the endless preparation, all for nothing.\n\nBut looking back, I realize it wasnt nothing. It was the Universes way of saying, \u201cNot this one, something better is on the way.\u201d\n\nEvery single time, Ive been shown why that rejection happened.\n\nDoors I thought I wanted to walk through were shut, only to have the right ones swing open.\n\nThe kind that aligned with my growth, my values, and my happiness.\n\nAt first, it stung. It hurt deeply. But now, when things dont go as planned, I dont panic.\n\nI dont question my worth. I sit back, breathe, and trust. The Universe knows.\n\nI know there's another plan waiting.Something bigger, better, and just for me.\n\nTo anyone feeling the weight of rejection: trust that the closed doors are protecting you from something you cant see right now.\n\nYour path is being cleared for something even more beautiful.",
+        "engagement": 206,
+        "line_count": 24,
+        "language": "English",
+        "tags": [
+            "Motivation",
+            "Rejection"
+        ]
+    },
+    {
+        "text": "To everyone who's still looking for a job...\nI see you. I feel you. \nEvery rejection email feels like a punch in the gut, and every 'We'll get back to you' sounds more like 'You'll never hear from us.'\n\nBut I want you to know, you're not alone in this. \nAccording to a study, 80% of jobseekers struggle with anxiety and self-doubt during their search. It's normal to feel lost, but it's not the end.\n\nTake breaks, breathe, and remember, this doesn't define you. Your worth is not tied to an offer letter. \nYour mental health matters more than any job.",
+        "engagement": 899,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Mental Health",
+            "Job Search"
+        ]
+    },
+    {
+        "text": "Sometimes, we forget that a companys brand name doesnt define someones talent. Its easy to get caught up in the 'big company = big talent' mindset, but that's not always the case.\n\nIve had the privilege of working with people from smaller companies (lesser known) who blow me away with their skills and dedication. They dont need a fancy title or a famous brand behind them to prove their worth.\n\nI've seen the other side too\u2014people in top-tier companies feeling lost, overwhelmed, or stuck, even though the world sees them as 'successful'.\n\nLets stop attaching someones value to the company they work for. Freshers especially need to hear this\u2014skills are what matter, not the size of the company behind them.\n\nAt the end of the day, happiness and growth dont come from a brand name, they come from doing what you love and constantly improving your craft.",
+        "engagement": 166,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "Self Improvement",
+            "Career Advice"
+        ]
+    },
+    {
+        "text": "So when I left a toxic work environment, I told my manager a simple thing and felt so good \nI just said-\n'Hope your son gets a manager like you.\nI hope that the manager behaves the same way as you did with me.\nThank you.'\n\nNow tell me 1 thing-\n\nShe always said that she was a great manager.\nWhy will she get offended?\n\nI just told her that I wish her son would get a manager like she was.\n\nIf you felt bad, then that means you were a bad manager and now you know it. \nIf you feel good, then take it as a blessing for your son and you'll really want someone to treat your son/daughter in the same way.\n\nShe cannot be even angry with me else it'll prove that she was not a 'great' manager.\n\nMuskan - 1\nManager - 0\n\nMuskan -> Aura +100000000\n\n(Fictional message unfortunately :(\n)\n\nHope you all become the people that your sons/daughters will like to work under \nThere are a lot of bad people/things, bring a small change and break the chain :)",
+        "engagement": 1111,
+        "line_count": 24,
+        "language": "English",
+        "tags": [
+            "Toxic Work Environment",
+            "Leadership"
+        ]
+    }
+]
